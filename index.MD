@@ -1,6 +1,6 @@
 # Privacy Policy for Tigers & Goats
 
-**Effective Date:** [Today's Date]
+**Effective Date:** 15-July-2025
 
 Tigers & Goats does not collect, store, or share any personal data from users.
 
